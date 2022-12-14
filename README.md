@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @beatrizbuffon21
+- 👀 Estou interessado em Estatís
+- 🌱 Atualmente estou aprendendo, Estatística, R, Python, SQL, Data Science...
+- 📫 How to reach me : email: bbiawoos@gmail.com/beatriz.buffon@acad.ufsm.br | linkedIn: https://www.linkedin.com/in/beatriz-woos-buffon-102ab5191
